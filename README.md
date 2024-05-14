@@ -32,10 +32,10 @@ No paper
 
 
 # データベース設計
-
+![alt text](nopaper.png)
 
 # 画面遷移図
-
+![alt text](gamen.png)
 
 # 開発環境
 ・フロントエンド
